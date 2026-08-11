@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ATM Class Diagram - Task A (Advanced)" id="6tp3X0vM5HuoSQ2tMPha">
-    <mxGraphModel dx="1645" dy="743" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
+    <mxGraphModel dx="2742" dy="1238" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry height="66" width="274" y="120" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-10" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=46;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;fontSize=15;fontFamily=Helvetica;rounded=1;arcSize=6;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;swimlaneFillColor=#FFFFFF;fontColor=#393C56;labelBackgroundColor=none;" value="«control» Bank" vertex="1">
-          <mxGeometry height="162" width="270" x="1310" y="479" as="geometry" />
+          <mxGeometry height="162" width="270" x="1362" y="479" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-11" parent="DcflnATe5N65PGT68iG5-10" style="text;align=left;verticalAlign=top;spacingLeft=8;spacingRight=4;spacingTop=3;overflow=hidden;rotatable=0;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=none;rounded=1;" value="- bankName : String - bankCode : String" vertex="1">
           <mxGeometry height="44" width="270" y="46" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-48" edge="1" parent="1" source="DcflnATe5N65PGT68iG5-26" style="endArrow=block;endFill=0;endSize=14;html=1;fontSize=11;fontFamily=Helvetica;strokeColor=#E07A5F;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=0;entryX=0.75;entryY=1;" target="DcflnATe5N65PGT68iG5-14" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhWc7q3Twt9Nv9hvVk3G-1" parent="1" style="text;align=left;verticalAlign=middle;fontSize=20;fontStyle=1;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=none;rounded=1;textShadow=1;whiteSpace=wrap;html=1;convertToSvg=1;svgWhiteSpace=wrap;autosizeText=0;" value="Instructor:&amp;nbsp; Ziana Mehnaz Ruhee&amp;nbsp;" vertex="1">
+          <mxGeometry height="67" width="948" x="81" y="1275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
