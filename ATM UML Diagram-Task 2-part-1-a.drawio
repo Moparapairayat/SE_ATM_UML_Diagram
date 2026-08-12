@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="ATM Class Diagram - Task A (Advanced)" id="6tp3X0vM5HuoSQ2tMPha">
-    <mxGraphModel dx="1645" dy="743" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="light-dark(#ffffff, #121212)" math="0" shadow="1">
+    <mxGraphModel dx="2742" dy="1295" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="light-dark(#ffffff, #121212)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="DcflnATe5N65PGT68iG5-39" edge="1" parent="1" source="DcflnATe5N65PGT68iG5-6" style="endArrow=none;html=1;fontSize=13;fontFamily=Helvetica;strokeColor=#E07A5F;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.6;entryX=0.5;entryY=0;labelBorderColor=none;fontStyle=1;" target="DcflnATe5N65PGT68iG5-10" value="connects to  (* - 1)">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DcflnATe5N65PGT68iG5-40" edge="1" parent="1" source="DcflnATe5N65PGT68iG5-6" style="dashed=1;endArrow=open;endFill=0;html=1;fontSize=13;fontFamily=Helvetica;strokeColor=#E07A5F;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.7;entryX=0.5;entryY=0;fontStyle=1;" target="DcflnATe5N65PGT68iG5-30" value="validates">
+        <mxCell id="DcflnATe5N65PGT68iG5-40" edge="1" parent="1" source="DcflnATe5N65PGT68iG5-6" style="endArrow=open;endFill=0;html=1;fontSize=13;fontFamily=Helvetica;strokeColor=#E07A5F;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.7;entryX=0.5;entryY=0;fontStyle=1;" target="DcflnATe5N65PGT68iG5-30" value="validates">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-41" edge="1" parent="1" style="endArrow=none;html=1;fontSize=13;fontFamily=Helvetica;strokeColor=#E07A5F;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.6;fontStyle=1;" value="recorded against  (* - 1)">
