@@ -86,16 +86,16 @@
           <mxGeometry height="44" width="231" y="46" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-30" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=46;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;fontSize=15;fontFamily=Helvetica;rounded=1;arcSize=6;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;swimlaneFillColor=#FFFFFF;fontColor=#393C56;labelBackgroundColor=none;" value="«entity» Card" vertex="1">
-          <mxGeometry height="152" width="220" x="120" y="986" as="geometry" />
+          <mxGeometry height="152" width="247" x="120" y="986" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-31" parent="DcflnATe5N65PGT68iG5-30" style="text;align=left;verticalAlign=top;spacingLeft=8;spacingRight=4;spacingTop=3;overflow=hidden;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=none;rounded=1;fontStyle=2" value="- cardNumber : String - expiryDate : Date - pin : String" vertex="1">
-          <mxGeometry height="66" width="220" y="46" as="geometry" />
+          <mxGeometry height="66" width="247" y="46" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-32" parent="DcflnATe5N65PGT68iG5-30" style="line;strokeWidth=1;strokeColor=#E07A5F;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1">
-          <mxGeometry height="8" width="220" y="112" as="geometry" />
+          <mxGeometry height="8" width="247" y="112" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-33" parent="DcflnATe5N65PGT68iG5-30" style="text;align=left;verticalAlign=top;spacingLeft=8;spacingRight=4;spacingTop=3;overflow=hidden;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=#393C56;labelBackgroundColor=none;rounded=1;" value="+ validate(inputPin: String) : boolean" vertex="1">
-          <mxGeometry height="22" width="220" y="120" as="geometry" />
+          <mxGeometry height="22" width="247" y="120" as="geometry" />
         </mxCell>
         <mxCell id="DcflnATe5N65PGT68iG5-34" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=46;horizontalStack=0;resizeParent=0;resizeParentMax=0;collapsible=0;marginBottom=0;fontSize=15;fontFamily=Helvetica;rounded=1;arcSize=6;shadow=0;fillColor=#F2CC8F;strokeColor=#E07A5F;swimlaneFillColor=#FFFFFF;fontColor=#393C56;labelBackgroundColor=none;" value="«entity» Account" vertex="1">
           <mxGeometry height="186" width="481" x="1122" y="982" as="geometry" />
